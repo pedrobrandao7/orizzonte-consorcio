@@ -93,7 +93,7 @@ const Form = () => {
 
     return (
         <form
-            className="flex flex-col max-w-2xl mx-auto bg-white p-8 rounded-2xl shadow-lg mt-20"
+            className="flex flex-col max-w-2xl mx-auto bg-white p-8 rounded-2xl shadow-lg mt-20 mb-10"
             onSubmit={handleSubmit}
         >
             <h2 className="text-2xl font-semibold text-gray-800 mb-6 ">

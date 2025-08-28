@@ -12,6 +12,7 @@ const Simule = () => {
     <TopBar />
     <Header />
     <Form />
+    <Footer />
     </>
   )
 }

@@ -203,7 +203,7 @@ const Form = () => {
                         value={formData.consortium_credit}
                         onChange={handleCurrencyChange}
                         placeholder="R$ 0,00"
-                        maxLength={10}
+                        maxLength={15}
                         required
                         className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg block w-full p-3"
                     />
@@ -233,7 +233,7 @@ const Form = () => {
                         value={formData.consortium_installments}
                         onChange={handleCurrencyChange}
                         placeholder="R$ 0,00"
-                        maxLength={10}
+                        maxLength={11}
                         required
                         className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg block w-full p-3"
                     />

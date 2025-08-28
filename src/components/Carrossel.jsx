@@ -90,7 +90,7 @@ const Carrossel = () => {
                                 <div className="flex flex-col gap-2 ">
                                     <h3 className="text-4xl font-bold text-white">{item.title}</h3>
                                     <p className="text-sm">{item.content}</p>
-                                    <button><a href="" className="text-white max-w-50 text-lg px-8 py-2 mb-2 block bg-gradient-to-r
+                                    <button><a href="/produtos" className="text-white max-w-50 text-lg px-8 py-2 mb-2 block bg-gradient-to-r
                                                                 from-amber-300 to-amber-400 p-3 rounded-xl shadow-lg
                                                                  shadow-amber-400/50 duration-500 hover:scale-110 ">SAIBA MAIS</a></button>
                                 </div>

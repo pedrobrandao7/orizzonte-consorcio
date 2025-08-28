@@ -64,9 +64,9 @@ const Quem = () => {
                     </div>
 
                     <div className="flex flex-col lg:flex-row justify-center items-center gap-5">
-                        <button><a href="" className="text-white text-lg px-8 py-2 mb-2 block p-3 rounded-xl border
+                        <button><a href="/contato" className="text-white text-lg px-8 py-2 mb-2 block p-3 rounded-xl border
                  border-black  hover:bg-blue-800">CONTATO</a></button>
-                        <button><a href="" className="text-white text-lg px-8 py-2 mb-2 block bg-gradient-to-r
+                        <button><a href="/simule" className="text-white text-lg px-8 py-2 mb-2 block bg-gradient-to-r
                  from-amber-300 to-amber-400 p-3 rounded-xl shadow-lg
                   shadow-amber-400/50 duration-500 hover:scale-110">SIMULE E VEJA</a></button>
                     </div>

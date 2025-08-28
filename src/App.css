@@ -1,29 +1,24 @@
-@import "tailwindcss"; 
+@import "tailwindcss";
 
 html {
-  scroll-behavior: smooth;
+    scroll-behavior: smooth;
 }
 
 @font-face {
-    font-family: Poppins ;
-    src: url("./fonts/Poppins-Light.ttf");
+    font-family: Poppins;
+    src: url("/fonts/Poppins-Light.ttf");
 }
 
 @font-face {
-    font-family: PoppinsThin ;
-    src: url("./fonts/Poppins-Thin.ttf");
+    font-family: PoppinsThin;
+    src: url("/fonts/Poppins-Thin.ttf");
 }
 
-@theme{
+@theme {
     --font-custom-regular: Poppins;
     --font-custom-thin: PoppinsThin;
 }
 
-body{
-    background: linear-gradient(to left, #0064D8, #5ea0ec);
+body {
+    background: linear-gradient(to left, #0064d8, #5ea0ec);
 }
-
-
-
-
-

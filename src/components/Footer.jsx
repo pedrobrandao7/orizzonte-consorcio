@@ -21,8 +21,8 @@ const Footer = () => {
             </ul>
         </div>
         <hr className="my-6 border-gray-200 sm:mx-auto dark:border-gray-700 lg:my-8" />
-        <span className="block text-sm text-gray-500 sm:text-center dark:text-gray-400">© 2023 <a target="_blank" href="https://instagram.com/orizzonteconsorcio" className="hover:underline">Orizzonte Consócio ™</a>. Todos os direitos reservados.</span>
-        <span className="block text-sm text-gray-500 sm:text-center dark:text-gray-400"> <a target="_blank" href="https://instagram.com/p.brandaoo__" className="hover:underline">Site desenvolvido por Pedro H. Brandão</a></span>
+        <span className="block text-sm text-gray-500 sm:text-center dark:text-gray-400">© 2023 <a target="_blank" href="https://instagram.com/orizzonteconsorcio" className="hover:underline">Orizzonte Consórcio ™</a>. Todos os direitos reservados.</span>
+        <span className="block text-sm text-gray-500 sm:text-center dark:text-gray-400"> <a target="_blank" href="https://instagram.com/orizzonteconsorcio" className="hover:underline">Site desenvolvido por Pedro Brandão</a></span>
     </div>
 </footer>
   )

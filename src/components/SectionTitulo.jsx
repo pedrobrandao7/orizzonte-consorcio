@@ -49,7 +49,7 @@ const SectionTitulo = () => {
         </div>
       </div>
       <div className="">
-        <img src="/src/assets/images/nivus.png" alt="" className="" />
+        <img src="/assets/nivus.png" alt="" className="" />
       </div>
     </div>
   );
